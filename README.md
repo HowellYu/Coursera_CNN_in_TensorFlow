@@ -1,5 +1,5 @@
 ## Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning
-DeepLearning.AI TensorFlow Developer Professional Certificate - Course 1
+DeepLearning.AI TensorFlow Developer Professional Certificate - Course 2
 - **Week 1**: Exploring a Larger Dataset
 - **Week 2**: Augmentation: A technique to avoid overfitting
   - Overfitting
